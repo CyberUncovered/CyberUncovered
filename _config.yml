@@ -1,6 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 title: Cyber Uncovered Title
-description: Our goal is to provide accessible knowledge to the world of cyber intelligence. Protect and secure your digital footprint. Explore and procure public data knowledge. 2
+description: Our goal is to provide accessible knowledge to the world of cyber intelligence. Protect and secure your digital footprint. Explore and procure public data knowledge.
 width: 100%
