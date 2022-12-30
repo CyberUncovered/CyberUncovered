@@ -17,8 +17,13 @@
 }
 
 .flex-child {
-    flex: 1;
-    border: 2px solid yellow;
+  flex: 1;
+  background-color: #404040;
+  width: 650px;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 5px 5px 10px 1px #5D5D5D;
+  margin: 0;
 }  
 
 .flex-child:first-child {
