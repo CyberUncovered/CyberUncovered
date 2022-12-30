@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 <br><br><br>
 <div class="flex-container">
 
-  <div class="flex-child magenta">
+  <div class="flex-child Privacy">
     Flex Column 1.1
   </div>
   
-  <div class="flex-child green">
+  <div class="flex-child Intel">
+    Flex Column Here is some more info to fill the field.. lets see how far it goes.
+  </div>
+  
+  <div class="flex-child Cyber">
     Flex Column 2.1
   </div>
   
